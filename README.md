@@ -1,0 +1,3 @@
+# Novleetcode
+11月开始的leetcode练习
+希望能够将今后写过的题目做一个保存，于是开始学习使用GitHub
